@@ -1,0 +1,12 @@
+>> Pistol  Pistol ribozyme
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   3.8e-06   33.8   0.0  cm        1       46 [~           1          47 + [~ 0.98    3' 0.47
+
+                                      ????              ?????       NC
+              <<<<________>>>>-------.<<<<--------------<<<<<~~~~~~ CS
+    Pistol  1 acUCGUCuggGCGAguAUAAAuA.cgCaUUAgGCccaGAGCGUcccg*[24]> 70
+              ::U:GU++GGGC:A:: UAAAUA     UUA+GCCC +AGCGU          
+  5K7D.pdb  1 CGUGGUUAGGGCCACGUUAAAUAgUUGCUUAAGCCCUAAGCGUUGAU*[ 0]> 47
+              ***********************999999***************999...... PP
+

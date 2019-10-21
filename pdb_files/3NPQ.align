@@ -1,0 +1,12 @@
+>> SAH_riboswitch  S-adenosyl-L-homocysteine riboswitch
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   5.4e-05   31.5   0.0  cm        1       72 [~           3          51 + .~ 0.94    3' 0.67
+
+                                                                                           NC
+                    :<<<<<<<------------<<~~~~~~>>------>>>>>>>::::::::::::::::::::::~~~~~ CS
+  SAH_riboswitch  1 CccuCCGAGGAGCGCUGCAACg*[13]*cGCCAGGCUCGGagggguaaaucuaCAACGGCGCUCa*[6]> 78
+                         CGAGGAGCGCUGCAA::      ::CCAGGCUCG          UC   AACGGCGCUCA     
+        3NPQ.pdb  3 A----CGAGGAGCGCUGCAAGC*[ 4]*GCCCAGGCUCG----------UCCGAAACGGCGCUCA*[0]> 51
+                    *....***************87...6..789********..........9***************..... PP
+

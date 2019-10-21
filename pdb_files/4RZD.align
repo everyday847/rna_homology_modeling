@@ -1,0 +1,19 @@
+>> PreQ1-III  PreQ1-III riboswitch
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   9.4e-24   98.7   0.0  cm        2      102 ~]           1          98 + ~] 0.98    5' 0.60
+
+                                                                                   v       v                         NC
+                ~~~~~:::::::::(((((((,,,,,,<<<<<<<<<________>>>>>>>>>,,,,<<<-<<<<<<<_______>>>>>>>-->>>,)))))))::::: CS
+  PreQ1-III   1 <[1]*AGCAACUUAgGauuuuAGGCUCCcCgGcgcgucuCgaaccgcgCcGgGCcAAaCCccccggGgCUGGCGGcCccgggGcGGuCaaaauCcAuCCG 96 
+                     AGCAACUUAG:AUUUUAGGCUCCCCGGC::GU  CGAACC::GCCGGGCCAAACCC:::GGG CUGGCGG+CCC:::GCGGUCAAAAU:CAUCCG
+   4RZD.pdb   1 <[0]*AGCAACUUAGGAUUUUAGGCUCCCCGGCGUGU--CGAACCAUGCCGGGCCAAACCCAUAGGG-CUGGCGGUCCCUGUGCGGUCAAAAUUCAUCCG 92 
+                .....*******************************7..57889***********************.9******************************* PP
+
+                       NC
+                :::::: CS
+  PreQ1-III  97 CuGGAG 102
+                C+GGAG
+   4RZD.pdb  93 CCGGAG 98 
+                ****** PP
+

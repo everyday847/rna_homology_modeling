@@ -1,0 +1,12 @@
+>> tRNA  tRNA
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !     1e-14   63.3   0.0  cm        1       71 []           1          71 + [. 1.00    no 0.68
+
+                                                                                      NC
+              (((((((,,<<<<_______>>>>,<<<<<_______>>>>>,,,,<<<<<_______>>>>>))))))): CS
+      tRNA  1 GgagauaUAGCucAgUGGUAgaGCgucgGaCUuaaAAuCcgaaggcgcgGGUUCgAaUCCcgcuaucucCa 71
+              G ::::AU G:::AG GGUA:::CG::G::CU + AA::C::A++CG:GGGUUCGA UCCC:CU:::: CA
+  1N78.pdb  1 GGCCCCAUCGUCUAGCGGUAGGACGCGGCCCUCUCAAGGCCGAAACGGGGGUUCGAUUCCCCCUGGGGUCA 71
+              *********************************************************************** PP
+

@@ -1,0 +1,19 @@
+>> LSU_rRNA_archaea  Archaeal large subunit ribosomal RNA
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   1.1e-10   38.9   0.0  cm     2206     2295 ..           2          95 + .] 0.97    no 0.60
+
+                                                                                                                    NC
+                        <<<<<<<<<<<---------<<<<<--<<<----...-----<<<<<____>>>>>---.--->>>------------>>>>>>>>>>>>> CS
+  LSU_rRNA_archaea 2206 ggccgcgggcgcguAGuGUAGguGGGAGccguug...aagcccccccuccggggggggu.gGAggCgacaaUGaaACACCacCcgcccgcg 2292
+                        GG:C:C:G::G+G+AG  UAGGU:GGAG:C+ U+   A+G++CCC:C C++G:GGG  +  GAG:C+ACA UGAAA AC:ACCC::C:G:G
+          5ML7.pdb    2 GGUCGCCGAUGUGCAGCAUAGGUAGGAGACACUAcacAGGUACCCGCGCUAGCGGGCCAcCGAGUCAACAGUGAAAUACUACCCGUCGGUG 92  
+                        *******************************9987778999***************9998******************************* PP
+
+                            NC
+                        >>> CS
+  LSU_rRNA_archaea 2293 gcc 2295
+                        :CC
+          5ML7.pdb   93 ACC 95  
+                        *** PP
+

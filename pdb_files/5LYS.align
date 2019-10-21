@@ -1,0 +1,14 @@
+>> 7SK  7SK RNA
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   1.4e-11   44.4   0.0  cm       24       86 ~~           1          52 + ~~ 1.00 5'&3' 0.65
+
+                    ?                                                                      NC
+              ~~~~~~<<<<<<<<<<-<<<<<--<<<<<<<___________>>>->>>>>>>-->>--->>>>>>>>>~~~~~~~ CS
+       7SK  1 <[23]*GAcacCcgucACcCCAUUGAUCGCcAgGGUUGauUCgGCUGAUCUGGCUgGCUaggcgGgugU*[244]> 330
+                    G::A:C:GUCACCCCAUUGAUCGCC           GGCUGAUCUGGCUGGCUAGGC:G:U::       
+  5LYS.pdb  1 <[ 0]*GGGAUCUGUCACCCCAUUGAUCGCC-----------GGCUGAUCUGGCUGGCUAGGCGGGUCC*[  0]> 52
+              ......************************9...........9**************************....... PP
+
+
+

@@ -1,0 +1,14 @@
+>> Intron_gpII  Group II catalytic intron
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   9.3e-09   44.9   0.0  cm        1       49 [~          18          70 + .~ 0.85    3' 0.57
+
+                                                             ??? ??           NC
+                 ::<<<<<<<<-<<<<<____>>>>>--->>>>>>>>--.....<<<<-<<____~~~~~~ CS
+  Intron_gpII  1 GaGAGCCGuaUGcgggGAAAcccgCACGuaCGGUUCGG.....gGGGgGgucau*[44]> 93
+                   GAGCCGUAUGCG::GAAA::CGCACGUACGGUUC+       GGGGG   A       
+     1KXK.pdb 18 AGGAGCCGUAUGCGAUGAAAGUCGCACGUACGGUUCUAugccc-GGGGGAAAAC*[ 0]> 70
+                 *****************************************95.3333332222...... PP
+
+
+

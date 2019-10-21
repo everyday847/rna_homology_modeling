@@ -1,0 +1,11 @@
+>> HAR1A  Highly accelerated region 1A/1B
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   1.3e-06   26.1   0.0 hmm       36       78 ..           3          45 + .. 0.96     - 0.56
+
+              ::::::::::::::::::::::::::::::::::::::::::: CS
+     HAR1A 36 GAAAUuAUAGGuGUAGACACAUGUCAGCaGUGGAAAcaGUUUC 78
+              GAAAU AU GG GUAGAC CA GUCAGC G GGAAA++GUUUC
+  5UNE.pdb  3 GAAAUGAUGGGCGUAGACGCACGUCAGCGGCGGAAAUGGUUUC 45
+              79**************************************997 PP
+

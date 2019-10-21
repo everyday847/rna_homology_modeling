@@ -1,0 +1,12 @@
+>> RF_site3  Putative RNA-dependent RNA polymerase ribosomal frameshift site
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   1.9e-05   31.3   0.0  cm       14       39 ~]           1          26 + ~] 1.00    5' 0.65
+
+                                               NC
+              ~~~~~~<<<<______>>>>:::::::::::: CS
+  RF_site3  1 <[13]*GCGGCACCGuCCGCCAAAACAAACGG 39
+                    GCGGCACCGUCCGC  AAACAAACGG
+  2A43.pdb  1 <[ 0]*GCGGCACCGUCCGCUCAAACAAACGG 26
+              ......************************** PP
+

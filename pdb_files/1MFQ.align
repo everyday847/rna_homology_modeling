@@ -1,0 +1,19 @@
+>> Metazoa_SRP  Metazoan signal recognition particle RNA
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   8.8e-31  116.5   0.0  cm      114      237 ..           3         126 + .. 1.00    no 0.60
+
+                                           vv                vv                                                      NC
+                  (((((((((((((((<<<<<<<<<<<<<<<<<<____>>>>>>>>>>>>>>>>>><<___>><<<<<<<---<<<<<----<<<____>>>---->>> CS
+  Metazoa_SRP 114 cgcuaggcucggcGUcgacauggggcccccggcGGAGgccgggggccccaggucgccuAAggaGgggcGaAccggcccAGGgcgGAAAcgcAGCAggc 211
+                  C:CUA:G:UC:GC:UC:A:AUGG:G  C:C:::GGAG:::G:G  C:CCAG:U:GCCUAAGGAGG:G:GAAC:::CCCAGG:CGGAAACG:AGCAGG:
+     1MFQ.pdb   3 CACUAAGUUCGGCAUCAAUAUGGUGACCUCCCGGGAGCGGGGGACCACCAGGUUGCCUAAGGAGGGGUGAACCGGCCCAGGUCGGAAACGGAGCAGGU 100
+                  ************************************************************************************************** PP
+
+                                             NC
+                  >>->>>>>>>))))))))))-))))) CS
+  Metazoa_SRP 212 agAAgcccCcGCgccgagccGuagcg 237
+                  ::AA:C:CCCG:GC:GA:C:GUAG:G
+     1MFQ.pdb 101 CAAAACUCCCGUGCUGAUCAGUAGUG 126
+                  ************************** PP
+

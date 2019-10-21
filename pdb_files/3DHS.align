@@ -1,0 +1,26 @@
+>> RNaseP_bact_b  Bacterial RNase P class B
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   1.7e-40  140.7   0.0  cm        1      366 []           8         205 + .. 0.94    no 0.57
+
+                                                                                                                     NC
+                    :::{{{{{{{{{{{,<<<<<<____..____>>>>>>,,,,,,,,,,,,,{{{{{<<<<.<<______>>>>>>~~~~~~~}}}}},,,<<<____ CS
+  RNaseP_bact_b   1 auuuucgGguaaucGCugcgguauu..uuuaccgcaGAGGAAAGUCCAuGCucGCACgg.gCUGuGAUGcccGU*[159]*GCgaGaAACCcAAAu 245
+                    AU :UC:GGUAAUCGCU:CGG      U   CCG:AGAGGAAAGUCCAUGCUCGCACGG GCUG+GAUGCCCGU       GCGAGAAACCCAAA 
+       3DHS.pdb   8 AUGCUCGGGUAAUCGCUGCGGCCGGuuUCGGCCGUAGAGGAAAGUCCAUGCUCGCACGGuGCUGAGAUGCCCGU*[  0]*GCGAGAAACCCAAAA 96 
+                    *********************8766335556*******************************************.......************984 PP
+
+                                                                                                        vvv          NC
+                    _______>>>,,,<<<<<<<_________________>>>>>>><<<<<<_.....____>>>>>>,,,,,,,,}}}}}}},<<<<<<<<<_____ CS
+  RNaseP_bact_b 246 UUUGGUAgGGGaAcccggucuaagGAAaugAAcuuaagaccgggacggccu.....uuaaggccguAGAuAgAUgauuacCaccgccgggcauuua 336
+                           GGGG+ACC::::C AAGGAAAUGAAC  A G::::GGAC:G:C      U  AG:C:GUAGAUAGAUGAUUACC+CC   G      UA
+       3DHS.pdb  97 -------GGGGCACCUUCCCGAAGGAAAUGAACGGA-GGGAAGGACAGGCGgcgcaUGCAGCCUGUAGAUAGAUGAUUACCGCCGGAG------UA 178
+                    .......****************************9.**************999887778**********************997765......44 PP
+
+                        vvv                        NC
+                    >>>>>>>>>,,,,,,,,,,,,,,,,}-}}} CS
+  RNaseP_bact_b 337 gcccggcggaACAgAACaUGGCUUAcagaa 366
+                       C   GG+ACAGAACAUGGCUUA:AGA:
+       3DHS.pdb 179 ---CGAAGGUACAGAACAUGGCUUAUAGAG 205
+                    ...577899********************* PP
+

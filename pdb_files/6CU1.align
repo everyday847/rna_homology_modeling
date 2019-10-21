@@ -1,0 +1,12 @@
+>> YrlA  Y RNA-like
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   4.2e-12   55.0   0.0  cm       13       96 ..           1          79 + [] 0.89    no 0.56
+
+                                                                                                    NC
+              (((((((-(((,,,,,,,,<<<<<_____>>>>>,<<<<<<.___>>>>>>,,<<<<_________>>>>,)))----))))))) CS
+      YrlA 13 uggGgaaCcaCauugGUuGcgGGcUCGAggCCcgcCccGcc.cuaggCggGUAGCUCAauuuGgUAGAGCaGugaAuGuucCcca 96
+              :G:G::: CACAUU+GUUGCGGG:UCGAG:CCCG+C::::C   AG::::GUAGCUCAA  UGGUAGAGC+GUG+   :::C:C:
+  6CU1.pdb  1 GGUGGCU-CACAUUUGUUGCGGGUUCGAGACCCGUCAGAGCgAAAGCUCUGUAGCUCAA--UGGUAGAGCGGUGU---AGUCACC 79
+              6666666.*********************************4456**************..**************...6666666 PP
+

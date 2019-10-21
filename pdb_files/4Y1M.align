@@ -1,0 +1,19 @@
+>> yybP-ykoY  yybP-ykoY manganese riboswitch
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   5.4e-10   40.3   0.0  cm       11      175 .]           4          91 + .. 0.84    no 0.44
+
+                                                                                           v                         NC
+                ::::::::::::::<<<_____________>>>,<<<<<<<<<<-------<<<<<____>>>>>>>>>>>>>>><<<<<<<_______...________ CS
+  yybP-ykoY  11 uuGGGGAGUAGCcgccuUUAuuuauuUugAaggGGcuugCgUCAACAUACUUGgcCcacaGgcCAUGGcGcaagCGguuccagccguuu...gggcauuc 107
+                UUGGGGAGUAGCCG :UU+ +++A    GAA:  G:::G:GUCAACAU+ U G : +A A : C UGGC:C:::CGG::::A                  
+   4Y1M.pdb   4 UUGGGGAGUAGCCGAUUUCCGAAAG---GAAAU-GUACGUGUCAACAUUUUCGUU-GAAA-AACGUGGCACGUACGGACUGAAGA----aau-------- 85 
+                **************67756577773...56666.*********************.****.**************7777777543....453........ PP
+
+                                                                                   v NC
+                _____________________________________________________________>>>>>>> CS
+  yybP-ykoY 108 cucucacguaCcgCCgucuggucGGCGggGgGgGguggggguuuugUuuugcccgcgccuauggaacU 175
+                                                                             U::::C 
+   4Y1M.pdb  86 -------------------------------------------------------------UCAGUC- 91 
+                .............................................................777777. PP
+

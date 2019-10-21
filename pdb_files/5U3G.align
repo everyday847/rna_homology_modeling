@@ -1,0 +1,12 @@
+>> ykkC-yxkD  Guanidine-I riboswitch
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !     3e-15   67.0   0.0  cm        8      108 ~]           1          84 + ~] 0.92    5' 0.63
+
+                                                          ?                                                   NC
+                ~~~~~<<<<<<---------~~~~~~---------->>>>>>>-<<<<<<<_______>>>>>>>:::::::::::::::::::::::::::: CS
+  ykkC-yxkD   1 <[7]*gcugCUAGGGUUCCG*[19]*CUGGUCCGAGAGcagccggccgggcuguuaaagcccggcUaCACGGaGGGAuAAAAGCCCGGGAGau 108
+                     G: :CUAGGGUUCCG      C GGUCCGAGAG: :CCG:CCG::    +AA  ::CGG:UACACGG+GGGA AAAAGCCCGGGAG+ 
+   5U3G.pdb   1 <[0]*GUGACUAGGGUUCCG*[ 7]*CCGGUCCGAGAGUUACCGACCGCC---GAAA--GGCGGUUACACGGCGGGAAAAAAGCCCGGGAGGA 84 
+                .....***************...6..789********************8...4444..8********************************* PP
+

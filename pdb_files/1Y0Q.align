@@ -1,0 +1,26 @@
+>> Intron_gpI  Group I catalytic intron
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   3.3e-20   79.3   0.0  cm       21      251 ~]           1         192 + ~. 0.91    5' 0.39
+
+                       ??????                                   v                                       v       vv   NC
+                 ~~~~~~>>>>>>,,,<<<._____>>>,,,,,,.....,,(((((-((,,,<<<<<<---.<<<~~~~~~>>>--->>>>>><<---<<<<----<<<< CS
+  Intron_gpI   1 <[20]*Gagcucauaagc.GaAAcgcuaUAAGU.....AAauCuGuCaAAUUGCGgGAAA.cCc*[12]*gGgCAAUcCGCAGCCAAauCcuaaGuuuc 112
+                       GAGC  +UA::C G+AA+G::           AA:::: UC AAUU::GGGAA  CC:      :GGCAAUCC::AGC AA :::U+AGU+  
+    1Y0Q.pdb   1 <[ 0]*GAGCCUUUAUACaGUAAUGUAU-----aucgaAAAAUCCUCUAAUUCAGGGAACaCCU*[ 1]*AGGCAAUCCUGAGCUAAGCUCUUAGUA-- 81 
+                 ......7777777777777999977775.....555569*********************9997...6..7*******************9999998.. PP
+
+                            vv      v                                                 v            vvv               NC
+                 <_______>>>>>--->>>>.--->>,,,,,,,,,,...............................,,))-))))),<<<<<<<<<____________ CS
+  Intron_gpI 113 uuAAAcaaagaaaAAugGga.aAgGUUCAaAGACUA...............................AAuGgCaGacAgccuacauuaugGAuuUAaaa 179
+                               AU:::  AA+GU CAA+GACUA                               AA GG ::::A:CCU+C               
+    1Y0Q.pdb  82 --------------AUAAGAgAAAGUGCAACGACUAuuccgauaggaaguagggucaagugacucgaAAUGGGGAUUACCCUUCU-------------- 152
+                 ..............5555442688**********************************************************888.............. PP
+
+                                               vvv                                         NC
+                 ____________________________>>>>>>>>>,,,,,,,,,,,,,,.,,,,,<<<<<____>>>>>:: CS
+  Intron_gpI 180 acguUcaauuaauuaucuuugauuuguaaauguaggcUgAAGAUAUAGUCu.aaucUcucauGAAAaugagaG 251
+                                                  AGG:U+  GAUAUAGUCU AA+ U:U:::GAAA:::A:AG
+    1Y0Q.pdb 153 ---------------------------------AGGGUAGUGAUAUAGUCUgAACAUAUAUGGAAACAUAUAG 192
+                 .................................**************************************** PP
+

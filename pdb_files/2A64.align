@@ -1,0 +1,33 @@
+>> RNaseP_bact_b  Bacterial RNase P class B
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   4.7e-67  228.6   0.1  cm        1      366 []           8         288 + .. 0.97    no 0.58
+
+                                                                                                                     NC
+                    :::{{{{{{{{{{{,<<<<<<____..____>>>>>>,,,,,,,,,,,,,{{{{{<<<<.<<______>>>>>>,,,,,[[[[[<<<<<<______ CS
+  RNaseP_bact_b   1 auuuucgGguaaucGCugcgguauu..uuuaccgcaGAGGAAAGUCCAuGCucGCACgg.gCUGuGAUGcccGUAGUGUUcGuGcugggcgAAauA 93 
+                    AU :UC:GGUAAUCGCU:CGG      U   CCG:AGAGGAAAGUCCAUGCUCGCACGG GCUG+GAUGCCCGUAGUGUUCGUGC:::GCGAA++ 
+       2A64.pdb   8 AUGCUCGGGUAAUCGCUGCGGCCGGuuUCGGCCGUAGAGGAAAGUCCAUGCUCGCACGGuGCUGAGAUGCCCGUAGUGUUCGUGCCUAGCGAAUCC 103
+                    *********************8766335556***************************************************************** PP
+
+                                                                                                                     NC
+                    ____>>>>>><<<<<<<____>>>>>>->((,<<<~~~~~~>>>,,,,,<<<<<~~~~~~>>>-->>))]]]]]}}}}},,,<<<___________ CS
+  RNaseP_bact_b  94 AUAAgcccagGcAggcguuuacgccUgACGGCggg*[34]*cccUgAAAGUgCC*[41]*GGuAAACCCCaCgAGCgaGaAACCcAAAuUUUGGUA 252
+                    AUAAGC:::GGCAG:C      G:CUGACGGCGGG      CCCUGAAAGUGCC      GGUAAACCCCACGAGCGAGAAACCCAAAU       
+       2A64.pdb 104 AUAAGCUAGGGCAGCC------GGCUGACGGCGGG*[ 0]*CCCUGAAAGUGCC*[ 0]*GGUAAACCCCACGAGCGAGAAACCCAAAUA------ 175
+                    **************96......79**********8......89**********9......9***************************87...... PP
+
+                                                                                                 vvv             vvv NC
+                    >>>,,,<<<<<<<_________________>>>>>>><<<<<<_.....____>>>>>>,,,,,,,,}}}}}}},<<<<<<<<<_____>>>>>>> CS
+  RNaseP_bact_b 253 gGGGaAcccggucuaagGAAaugAAcuuaagaccgggacggccu.....uuaaggccguAGAuAgAUgauuacCaccgccgggcauuuagcccggc 343
+                    GGGG+ACC::::C AAGGAAAUGAAC  A G::::GGAC:G:C      U  AG:C:GUAGAUAGAUGAUUACC+CC   G::C     G::C   
+       2A64.pdb 176 GGGGCACCUUCCCGAAGGAAAUGAACGGA-GGGAAGGACAGGCGgcgcaUGCAGCCUGUAGAUAGAUGAUUACCGCCGGAGUAC-----GUACGAA 265
+                    ****************************9.**************999887778******************************9.....9****** PP
+
+                                            NC
+                    >>,,,,,,,,,,,,,,,,}-}}} CS
+  RNaseP_bact_b 344 ggaACAgAACaUGGCUUAcagaa 366
+                    GG+ACAGAACAUGGCUUA:AGA:
+       2A64.pdb 266 GGUACAGAACAUGGCUUAUAGAG 288
+                    *********************** PP
+

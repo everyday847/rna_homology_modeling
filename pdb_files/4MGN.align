@@ -1,0 +1,14 @@
+>> SpR19_sRNA  Streptococcus sRNA SpR19
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) ?       4.8   11.2   0.0  cm        1       65 [~          21          85 + .~ 0.97    3' 0.63
+
+                ?????????      ???  ?    v    vvv                    vvv    v           NC
+                (((((((((,,,,,,<<<--<<<-<<<<--<<<<---<<________>>--->>>>-->>>>->>~~~~~~ CS
+  SpR19_sRNA  1 GcgUuccucaAGCGAgccUGgGaUAGuGaaagccagguagAauAAAauaaguggcuGGCgCUUuC*[58]> 123
+                 C  U C  AAGCGAGCC GGG: : :G++   : GGU:+A      :AA  :   GGC: :U:C      
+    4MGN.pdb 21 UCUCUUCCGAAGCGAGCCGGGGGCGGUGGGAGCCCGGUGAAGACGGUUAAUGAAACGGCAGUUCC*[ 0]> 85
+                ****************************************9999999999999999*********...... PP
+
+
+

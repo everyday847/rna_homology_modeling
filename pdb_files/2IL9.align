@@ -1,0 +1,19 @@
+>> IRES_Cripavirus  Cripavirus internal ribosome entry site (IRES)
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !     4e-15   74.8   0.0  cm        1      142 [~           1         124 + [~ 0.87    3' 0.37
+
+                        v                                                                  v                         NC
+                      <<<<<<<<<------<<<<<<<<<..________________________>>>>>>>>>---->>>>>>>>>,,,,,,,,~~~~~~,,,,,<<< CS
+  IRES_Cripavirus   1 ccgAcuaUGUGAUCUUgCuugcgg..auaaAAAUuUuaaaggUaaaAAAaccgcaaGuAuUGCUAuagUcggAauuagcU*[13]*UUACugcc 99 
+                      C:GACUAUGUGAUCUU::U:::::  + ++AAA     A G UAAAAA+A:::::A::AUUGCUAUAGU :GA     CU      UUAC :C:
+         2IL9.pdb   1 CUGACUAUGUGAUCUUAUUAAAAUuaGGUUAAA---CGAGGUUAAAAAUAGUUUUAAUAUUGCUAUAGU-AGAG--GUCU*[ 3]*UUACCACA 85 
+                      ************************744444444...45667788999999******************9.5533..3444...5..******** PP
+
+                                                                        NC
+                      <-<<<<<----<<<<_____>>>>-->>>>>->>>>,,,,,,,~~~~~~ CS
+  IRES_Cripavirus 100 CAgGAuggcuugugGCAGCCCcacAAuaUCcAGggcacccuuu*[59]> 201
+                      CA:GAUGG   G::GC    C::CAAUAUC:AG:G:ACCCU +      
+         2IL9.pdb  86 CAAGAUGGACCGGAGC----CUCCAAUAUCUAGUGUACCCUCG*[ 0]> 124
+                      ***************6....******************88888...... PP
+

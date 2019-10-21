@@ -1,0 +1,12 @@
+>> THF  THF riboswitch
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   2.3e-24   97.3   0.0  cm        1      100 []           2         100 + .] 0.97    no 0.56
+
+                                                                                                                     NC
+               (((((----(((((((((((,,,,,<<-<<<<<<<<___________>>>>>>>>>>,,,<<<<______>>>>,,,)))))))))))-------.))))) CS
+       THF   1 ggcaGAGUAGggugccgugcGUuAAGUGccggcgggAcGGGgaGUUGcccgccggACGAAgggcaaaauugcccGCGguacggcaccCGCAUcCg.Cugcc 100
+                :CAGAGUAGG::::CGUGCGU AAGUGCC:G:GG:ACGGGGAGUUG:CC:C:GGACGAA:::C  AA+ G:::GCGGUACG::::CCGCAUC + CUG: 
+  3SUX.pdb   2 GACAGAGUAGGUAAACGUGCGUAAAGUGCCUGAGGGACGGGGAGUUGUCCUCAGGACGAACACCG-AAA-GGUGGCGGUACGUUUACCGCAUCUCgCUGUU 100
+               ****************************************************************5.444.***********************999***** PP
+

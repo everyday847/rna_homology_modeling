@@ -1,0 +1,12 @@
+>> Hatchet  Hatchet ribozyme
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   5.8e-17   80.7   0.0  cm       33      162 ~]           1          81 + ~] 0.98    5' 0.36
+
+                                                                                                         NC
+               ~~~~~~<<<<<<_______>>>>>>---<<<<<----<<<----<<<<<<<~~~~~~>>>>>>>--->>>-------------->>>>> CS
+   Hatchet   1 <[32]*UcAagGUGAaAAuCcuUgACAAgCcUGUGGGGCuUAUAguaAuca*[53]*ugaUuauauUaGUGCAGACgUUAAAAUCAgGc 162
+                     U:A::GUGA+AAUC::U:ACAA:C:UGUGGGGCUUAUA:::A:::      :::U:::AUUAGUGCAGACGUUAAAA CA:G:
+  6JQ6.pdb   1 <[ 0]*UUACUGUGAGAAUCAGUAACAAACAUGUGGGGCUUAUAUCUAAUC*[ 4]*GAUUAGUAUUAGUGCAGACGUUAAAACCAUGU 81 
+               ......*******************************************98...8..89****************************** PP
+

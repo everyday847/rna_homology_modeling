@@ -1,0 +1,19 @@
+>> ydaO-yuaA  ydaO/yuaA leader
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   1.8e-21   85.7   0.0  cm       11      133 ..           3         120 + .] 0.92    no 0.53
+
+                       v          vv                                                                                 NC
+                {{{{,,,<<<______>>>[[[[[[,,,,<<________>>(((,,,,,<<<<_______._>>>>,,<<<<__________>>>>,,,))),,,,,,,, CS
+  ydaO-yuaA  11 cGCcGAAucccauaagggagCGgGGGAaCCaaucuauuUuGGGGUGAAUccgguuauauu.accgguAGGGcaAcccUccuggCCCGAACCCGaCAGCUA 109
+                :GCCGAA CC ++AA GG  CG::GGAACC     +UUU GGGGU AAUC:G:  + A+   :C:GUAGGG:+ACC+UC+ G:CCCG ACCCGACAGCUA
+   4QK8.pdb   3 UGCCGAAUCC-GAAA-GGUACGGAGGAACCG---CUUUUUGGGGUUAAUCUGCAGUGAAGcUGCAGUAGGGAUACCUUCU-GUCCCGCACCCGACAGCUA 96 
+                **********.4444.***************...55666**************997777779**********88887777.9****************** PP
+
+                      v                  NC
+                ,]]]]]],}}}}:::::::::::: CS
+  ydaO-yuaA 110 ACCuCGcAgGCguuaaaGAGaGgA 133
+                AC::CG AGGC:+UAAAG+ AGGA
+   4QK8.pdb  97 ACUCCGGAGGCAAUAAAGGAAGGA 120
+                ************************ PP
+

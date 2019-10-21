@@ -1,0 +1,12 @@
+>> c-di-GMP-I  Cyclic di-GMP-I riboswitch
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   2.4e-09   49.3   0.0  cm        1       87 []           3          78 + .. 0.94    no 0.59
+
+                                                            v                     v           NC
+                :::::::::::<<---<<<<<<____>>>>>>--->>--<<<<-<.<<<<<--~~~~~~>>>-->>>>>>>:::::: CS
+  c-di-GMP-I  1 uaaugaaAAaGGCAAAcccgccGAAAggcgggGACGCAAAgCcac.gGguCUA*[17]*GacAGCcggGcUGCCgaa 87
+                + A+GA AA    AAACC::CCG  AGG::GGG C  AAAGCC+  GGGUCU       GACAGCC GGCUGCCGAA
+    4YAZ.pdb  3 ACACGACAAUACUAAACCAUCCGCGAGGAUGGGGCGGAAAGCCUAaGGGUCUC*[ 5]*GACAGCCGGGCUGCCGAA 78
+                *******************************************955*****74...6..*******5********** PP
+

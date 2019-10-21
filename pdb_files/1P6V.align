@@ -1,0 +1,12 @@
+>> tmRNA  transfer-messenger RNA
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !     6e-09   32.8   0.0  cm       12      343 ~~           1          45 + ~~ 0.96 5'&3' 0.67
+
+                                                                              NC
+               ~~~~~~,,,,,((((((((((~~~~~~~)))))))))),<<<<<_______>>>>>~~~~~~ CS
+     tmRNA   1 <[11]*GuUUCGACgggggug*[289]*cacuuucGGACGgGGGUUCGAuUCCCcC*[11]> 354
+                     G+UUCGACGG:::::       :::::UCGGACG:GGGUUCGAUUCCC:C      
+  1P6V.pdb   1 <[ 0]*GAUUCGACGGGGACU*[  2]*GGUCCUCGGACGCGGGUUCGAUUCCCGC*[ 0]> 45 
+               ......************986....9..689*************************...... PP
+

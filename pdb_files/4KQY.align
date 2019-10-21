@@ -1,0 +1,21 @@
+>> SAM  SAM riboswitch (S box leader)
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   8.3e-23   98.2   0.0  cm        1      108 []           2         118 + .. 0.98    no 0.50
+
+                                                                                                                     NC
+               ((((((((,,,,,,<<<---<<<_____>>>------>>>,,<<<-<<<<<<______.........___>>>-->>>>>>,,,,,,,,<<<<________ CS
+       SAM   1 cucUuAUcaAGAGaGGcgGAGGGAcuGGCCCuaUGAAgCCuCgGCAACCcccuauaau.........auagggAaGGUGCcAAuUCCugCcggauauuuuu 92 
+               :UCUUAUCAAGAGA:GC+GAGGGACUGGCCC+A GAAGC:UC:GCAACC::: ++A+          AU :::AAGGUGC:AA+UCC+GC::G U  ++ +
+  4KQY.pdb   2 UUCUUAUCAAGAGAAGCAGAGGGACUGGCCCGACGAAGCUUCAGCAACCGGUGUAAUGgcgaaagccAUGACCAAGGUGCUAAAUCCAGCAAGCUCGAACA 102
+               ****************************************************999988999999999899******************************* PP
+
+                                NC
+               _>>>>,,,)))))))) CS
+       SAM  93 uccgGaaAgAUaAgag 108
+                C::G+AAGAUAAGA:
+  4KQY.pdb 103 GCUUGGAAGAUAAGAA 118
+               **************** PP
+
+
+

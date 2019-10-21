@@ -1,0 +1,21 @@
+>> THF  THF riboswitch
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !     6e-16   67.5   0.0  cm        2      100 ~]           1          89 + ~] 0.95    5' 0.52
+
+                                                                                                                     NC
+               ~~~~~((((----(((((((((((,,,,,<<-<<<<<<<<___________>>>>>>>>>>,,,<<<<______>>>>,,,)))))))))))-------)) CS
+       THF   1 <[1]*gcaGAGUAGggugccgugcGUuAAGUGccggcgggAcGGGgaGUUGcccgccggACGAAgggcaaaauugcccGCGguacggcaccCGCAUcCgCu 97 
+                    G:AGAGUA ::UG::::GCGUUAAGUG:::G:G: A+GGG++GU G :C:C:::ACGAAG:    A +   :CGCGGU::::CA:: GCAUCCGCU
+  4LVW.pdb   1 <[0]*GGAGAGUA-GAUGAUUCGCGUUAAGUGUGUGUGA-AUGGGAUGUCG-UCACACAACGAAGC---GAGA---GCGCGGUGAAUCAUU-GCAUCCGCU 86 
+               .....********.******************9999998.***********.8999999******8...5555...8**************.********* PP
+
+                 ? NC
+               ))) CS
+       THF  98 gcc 100
+               :C 
+  4LVW.pdb  87 CCA 89 
+               *** PP
+
+
+

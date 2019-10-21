@@ -1,0 +1,12 @@
+>> IRES_HCV  Hepatitis C virus internal ribosome entry site
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   3.1e-11   42.5   0.0  cm       61      255 ~]           1          75 + ~. 0.96    5' 0.65
+
+                                                                                               NC
+               ~~~~~~{{{{{{{{{[[-[[[[~~~~~~~~~~~~~,,,,]]]]-]]<<<______>>><<__....__>>}}}}}}}}} CS
+  IRES_HCV  23 <[38]*cCucccggGaGAgCCa*[112]**[27]*CuuGuGGuACugCCUGAUAGGGcGcuu....GugCCccgggaGg 255
+                     CCUCCCGGGAGAGCC:               UG:GGUACU:CCUGAUAGGG:GCUU    GUGCCCCGGGAGG
+  3T4B.pdb   1 <[ 0]*CCUCCCGGGAGAGCCG*[ 10]**[ 6]*-AUGCGGUACUGCCUGAUAGGGUGCUUgcgaGUGCCCCGGGAGG 75 
+               ......****************....9.....9...589**************************99************ PP
+

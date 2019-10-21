@@ -1,0 +1,12 @@
+>> Hammerhead_1  Hammerhead ribozyme (type I)
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   1.5e-05   27.6   0.0  cm        3       36 .~          10          42 + .~ 0.96    3' 0.55
+
+                  ????                         ???vv      NC
+                  ((((,,,,,,,<<<<_______>>>>,,,<<<<>~~~~~ CS
+  Hammerhead_1  3 uuccCUGAaGAGuCcaAGAAUAgGaCGAAACgCG*[8]> 44
+                      CUGA GAGUCC+A AAUAGGACGAAACG       
+      2OEU.pdb 10 CCAGCUGAUGAGUCCCA-AAUAGGACGAAACGCC*[0]> 42
+                  *****************.*************776..... PP
+

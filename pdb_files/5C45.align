@@ -1,0 +1,12 @@
+>> FMN  FMN riboswitch (RFN element)
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   2.8e-09   42.0   0.0  cm        5       69 .~           3          54 + .~ 0.99    3' 0.54
+
+              ??????                                                                  NC
+              ((((((,,,,,,<<<_______>>>,,,,,<<<<___________________>>>>,,,,,,,,~~~~~~ CS
+       FMN  5 guccUCaGGGCaGGGUGaAAUUCCCuACCGGCGGUAAuuaauuaaauuuaAGcCCGCGAgCguuu*[67]> 136
+               UC UC+GGGCAGGGUGAAAUUCCC ACCGG:GGUA              AG+CC:CGA  G+UU      
+  5C45.pdb  3 AUCUUCGGGGCAGGGUGAAAUUCCCGACCGGUGGUA-------------UAGUCCACGAAAGCUU*[ 0]> 54
+              ************************************.............9***********9999...... PP
+

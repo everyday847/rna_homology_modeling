@@ -1,0 +1,19 @@
+>> Cobalamin  Cobalamin riboswitch
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   3.6e-35  126.7   0.0  cm        7      191 ~]           1         175 + ~. 0.96    5' 0.59
+
+                                                                                                                 v   NC
+                ~~~~~:::::::::[[[[[[,<<<____________>>>,,,,,(((,,,<.<<<<_______>>>>>,,<<<____>>>,<<<---<<<<------<<< CS
+  Cobalamin   1 <[6]*ugaaacgaugauGGUuccccuuuaaagugaaggguuAAaaGGGAAc.ccGGUGaaAaUCCgggGCuGcCCCCgCaACuGUAAgcGgagagcaccc 100
+                     U+AAA   U:AUGGU C:C+        G AG:GUUAAAAGGGAA: C:GGUGA+AAUCC:G:GC:GCCCCCGC:ACUGU+AG:G:+GA +A :C
+   4GMA.pdb   1 <[0]*UUAAAGCCUUAUGGU-CGCUAC--CCCGGUAGCGUUAAAAGGGAAGaCGGGUGAGAAUCCCGCGCAGCCCCCGCUACUGUGAGGGAGGACGAAGC 92 
+                .....***************.***995..5555678**************************************************************** PP
+
+                                                         v                                                  NC
+                <<<-----<<<-<<<<<<______>>>>>>--->>>>>>>>>---------->>>>---->>>,,,,)))]]]]]]::::::::::::::: CS
+  Cobalamin 101 cccAauAaGCCACUggcccgcaagggccGGGAAGGCggggggaaggaaugaccCgcgAGcCaGGAGACCuGCCaucaguuuuugaaucucc 191
+                CC:AA   GCCACU::C  G AA  G::GGGAAGGC:GGG: +AGGA+++  :C:CGAGCCAGGAGACCUGCCAU:AG UU+ +++ C ++
+   4GMA.pdb  93 CCUAA---GCCACUGCC--GAAA--GGUGGGAAGGCAGGGUGGAGGAUGAG-UCCCGAGCCAGGAGACCUGCCAUAAGGUUAGUUCGCCUU 175
+                **965...*********..7777..*****************999999999.*************************************** PP
+

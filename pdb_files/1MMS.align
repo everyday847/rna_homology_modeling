@@ -1,0 +1,12 @@
+>> LSU_rRNA_bacteria  Bacterial large subunit ribosomal RNA
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   2.9e-18   58.8   0.0  cm     1093     1150 ~~           1          58 + ~~ 1.00 5'&3' 0.50
+
+                                                                                                    NC
+                         ~~~~~~~~(((((,<<<--<<<_________>>>-->>><___><---<<______>>->,)))))~~~~~~~~ CS
+  LSU_rRNA_bacteria    1 <[1092]*aCcaGGAgGUUGGCUUAGAAGCAGCCAUCcUuuAAaGAguGCGUAAuAGCUCACugGu*[1775]> 2925
+                                 :C::GGA:GUUGGCUUAGAAGCAGCCAUC:UUUAAAGAGUGCGUAA+AGCUCAC::G:        
+           1MMS.pdb    1 <[   0]*GCUGGGAUGUUGGCUUAGAAGCAGCCAUCAUUUAAAGAGUGCGUAACAGCUCACCAGC*[   0]> 58  
+                         ........**********************************************************........ PP
+

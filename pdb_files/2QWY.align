@@ -1,0 +1,14 @@
+>> SAM_alpha  SAM riboswitch (alpha-proteobacteria)
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   2.2e-05   27.7   0.0  cm       10       63 ..           2          51 + .. 0.96    no 0.46
+
+                                                                      NC
+               <<<<<<_____________________>>>>>>::::::::::::::::::::: CS
+  SAM_alpha 10 CGUGGuGAUUUGacCGGCCGGCUUGCAgCCACGUUAAAcAAgUCGCUAAAaAGG 63
+               CG:G :GAUUU AC    CG  UUGCA: C:CGU A A A GU GCUAAAAAGG
+   2QWY.pdb  2 CGCGGCGAUUUAAC----CGUAUUGCAGUCGCGUGAUAAAUGUAGCUAAAAAGG 51
+               ***********865....8889******************************** PP
+
+
+

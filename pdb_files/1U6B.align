@@ -1,0 +1,19 @@
+>> Intron_gpI  Group I catalytic intron
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   1.4e-06   31.6   0.0  cm        1      251 []           2         188 + .. 0.75    no 0.61
+
+                      vv        vv    v v      v v        v      v                                            v      NC
+                 ::::<<<<~~~~~~>>>>,,,<<<_____.>>>,,,,,,,,(((((-((,,,<<<<<<---<<<<<_~~~~~~>>>>>--->>>>>><<---<<<<--- CS
+  Intron_gpI   1 cuAugagc*[14]*gcucauaagcGaAAc.gcuaUAAGUAAauCuGuCaAAUUGCGgGAAAcCcuag*[ 7]*uugGgCAAUcCGCAGCCAAauCcuaa 107
+                 C  UG GC      G  C    G GAAAC  C + A+G  A : UGUC AAUU: G :AAACC::AG      U::GGCAA: C :AGCCAA: :   +
+    1U6B.pdb   2 CCGUGUGC*[ 3]*G--CGCCGG-GAAACcACGCAAGG-GAUGGUGUCAAAUUCGGCGAAACCUAAG*[14]*UAUGGCAACGCCGAGCCAAGCUUCGC 101
+                 ****9764...3..2..332233.66664333344444.49999*********************98...5..9******************8655555 PP
+
+                     vv           vv        v                  v      v   vv          vv                          NC
+                 -<<<<<_______....>>>>>--->>>>--->>,,,,,,,,,,,,))-))))),<<<<<<~~~~~~>>>>>>,,,,,,,,,,,,,,,~~~~~~:: CS
+  Intron_gpI 108 GuuucuuAAAcaa....agaaaAAugGgaaAgGUUCAaAGACUAAAuGgCaGacAgccuac*[46]*guaggcUgAAGAUAUAGUCua*[18]*aG 251
+                  ::: UU  A         :::++  : :AAGGU  A+AGACUA A GGCA : A:C  A:      :U  G:UGAAG  AUAGUC+A      +G
+    1U6B.pdb 102 AGCCAUUGCA---cucc--GGCUGCGAUGAAGGUGUAGAGACUAGACGGCACCCACCUAAG*[ 7]*CUAUGGUGAAGGCAUAGUCCA*[ 1]*GG 188
+                 4555544333...3434..55556666799***************************7765...7..6778***************86...5..** PP
+

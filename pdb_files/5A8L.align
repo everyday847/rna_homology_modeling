@@ -1,0 +1,19 @@
+>> LSU_rRNA_eukarya  Eukaryotic large subunit ribosomal RNA
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   6.1e-15   67.6   0.0  cm     2405     2991 ..         122         245 + .. 0.94    no 0.49
+
+                                   v v           vv                  v   v                 v   v                    NC
+                        {{,,,,,,{{{{-{{~~~~~~~--}}}}}},,,,,,,,<<<-<<<<<<<<---<<_______>>--->>>>>>>-->>>>,,,,,,,,,,( CS
+  LSU_rRNA_eukarya 2405 AAGAAGACCCUgUUG*[397]*ACCAcAGGGAUAACUGGcuUGUGGCgGCCAAGCGUUCAUAGCGACGUcGCUUUUUgaUCCUUCGAUGUC 2885
+                        AAGAAGACCCU U G       ACCA AGGGAUAACUGGCUUGUGG   CCAAGCGUUCAUAGCGAC     UUUUUGAUCCUUCGAUGUC
+          5A8L.pdb  122 AAGAAGACCCUCU-G*[  6]*ACCACAGGGAUAACUGGCUUGUGG---CCAAGCGUUCAUAGCGAC-----UUUUUGAUCCUUCGAUGUC 202 
+                        ***********74.4....9..67888******************4...59***************9.....9****************** PP
+
+                           v                v            v             v          NC
+                        (((((((~~~~~~))--)--))))-),,,,,<<<<<<<____>>>->>>>,,,,}}- CS
+  LSU_rRNA_eukarya 2886 GGCUCUU*[55]*GAACGUGAGCUGGGUUUAGACCGUCGUGAGACAGGUUAGUUUUA 2991
+                        GG  CUU      GAACGUGA CUGGGUUUAGA C      A    G UUAGUUUUA
+          5A8L.pdb  203 GG--CUU*[ 5]*GAACGUGA-CUGGGUUUAGAAC------A----GGUUAGUUUUA 245 
+                        **..887...9..899***86.*************......4....*********** PP
+

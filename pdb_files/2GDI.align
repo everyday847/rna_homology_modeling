@@ -1,0 +1,14 @@
+>> TPP  TPP riboswitch (THI element)
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   1.5e-11   58.3   0.0  cm        8       91 ..           2          77 + .. 0.97    no 0.54
+
+                          v          v                                                                NC
+              [[[((((,,<<<<<___...__>>>>>,,,,,<<<<<<_>>>>>>,,)))),,,,,<<<<--<<<<______>>>>-->>>>,,]]] CS
+       TPP  8 acuaGGGGuGCcccuau...aagggGCUGAGAugggccuggcccaaACCCuUuGAACCUgAUCcGGaUAAUaCCgGCGuAGGGAagu 91
+              ACU:GGGGUGCC :U U     : GGCUGAGA:           : ACCC:U+  ACCUGAUC:GGAUAAU+CC:GCGUAGGGAAGU
+  2GDI.pdb  2 ACUCGGGGUGCCCUUCUgcgUGAAGGCUGAGAA-----------AUACCCGUAUCACCUGAUCUGGAUAAUGCCAGCGUAGGGAAGU 77
+              ************999888887799*********...........899**************************************** PP
+
+
+

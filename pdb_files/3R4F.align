@@ -1,0 +1,14 @@
+>> Phage_pRNA  Bacteriophage pRNA
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   2.4e-08   34.1   0.0  cm       19       93 ~~           1          66 + ~~ 0.94 5'&3' 0.50
+
+                                         vvvv       vvvv                                                 NC
+                ~~~~~~,,,,,,,,,,<<<<<----<<<<<_____>>>>>----------->>>>>,,,,,,,,,,,,,,,,,,,,,,,,,~~~~~~~ CS
+  Phage_pRNA  1 <[18]*UUGUCAUGUGuauGuUGGGgauuaAACCCugauuGAGUUCAGCCCaCauaCUUUGUUGAUUGGUUGUCAAUCAUG*[151]> 244
+                             GUGUAUGU GGG    AAACCCUGAUUGAGUUCAGCCCACAUACUUUGUUGAU GGUUGUCAAUC          
+    3R4F.pdb  1 <[ 0]*----GGCGUGUAUGUGGGG----AAACCCUGAUUGAGUUCAGCCCACAUACUUUGUUGAU-GGUUGUCAAUCGCC*[  0]> 66
+                ..........8889*******8888....6799*******************************95.99********9887....... PP
+
+
+

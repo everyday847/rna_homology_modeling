@@ -1,0 +1,19 @@
+>> AdoCbl-variant  AdoCbl variant RNA
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   2.5e-15   76.7   0.0  cm        1      114 [~           1         102 + [~ 0.97    3' 0.47
+
+                                            v               v                                                      ? NC
+                     ((((((-------(((((,,,,,<<<<<_______>>>>>,,<<<____>>>,<<<_______>>>,,,,)))))))))))-----------<<< CS
+  AdoCbl-variant   1 auacugAAaucaugGuGGGAAAucaguGUGAAAUUCacugaCuguaCcUgcaACgGUaAaAGUCcGAgcGCCaCccaguauAGuCCgcUGUuGaa 95 
+                     :::CU:AAA CAUGGUGGGAAA  :::GUG AAUUC::: AC::UAC UG::ACGGU+A+A UCCGA++GCCACC:AG:::A            A
+        4FRN.pdb   1 GGGCUAAAAGCAUGGUGGGAAAGUGACGUGUAAUUCGUCCACAUUACUUGAUACGGUUAUACUCCGAAUGCCACCUAGCCCA------------A 83 
+                     *********************************************************************************6............5 PP
+
+                     ?  v              v       NC
+                     <--<<<<________>>>>~~~~~~ CS
+  AdoCbl-variant  96 cgAaGgcCAGGAAAAguCu*[17]> 131
+                      G  G::CA G+A A::C       
+        4FRN.pdb  84 AGUAGAGCAAGGAGACUCA*[ 0]> 102
+                     5669**************9...... PP
+

@@ -1,0 +1,12 @@
+>> Purine  Purine riboswitch
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   4.3e-11   59.4   0.0  cm       19       87 ..           3          69 + .. 1.00    no 0.40
+
+                                                                                    NC
+              (((((((,,,<<<<<<<_______>>>>>>>,,,,,,,,<<<<<<<_______>>>>>>>,,))))))) CS
+    Purine 19 ccuCgUAUAAucccgggAAUAUGGcccgggaGUUUCUACCaggcagCCGUAAAcugccuGACUAcGagg 87
+              C:UC:UAUAAUCC:::: AUAUGG::::GGAG UUC ACCA:G:: CC UAAA ::C:UGACUA:GA:G
+  4LX6.pdb  3 CUUCAUAUAAUCCGAAUGAUAUGGUUUCGGAGCUUCCACCAAGAG-CCUUAAA-CUCUUGACUAUGAAG 69
+              *********************************************.*******.*************** PP
+

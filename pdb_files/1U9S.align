@@ -1,0 +1,19 @@
+>> RNaseP_bact_a  Bacterial RNase P class A
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   2.2e-36  114.4  16.4  cm       70      217 ~~           1         155 + ~~ 0.93 5'&3' 0.72
+
+                                                                                       v   v           v   v         NC
+                    ~~~~~~[[[[<<<<<_____>>>>><<<<<____>>>>->((---(((((,,,,,,,,,,,,<<<<<<<<<<<.....____>>>>>>>>>-->>, CS
+  RNaseP_bact_a   1 <[69]*gguGccgGgUAACgcCcggcggggGugAccccAgGGAaAGugCcACAGAAAauAgACCgCccgcccc.....uuauggggcggGcAAGGG 154
+                          GGUGCC:GGUAACGCC:GG::GGGGU+ACCC:A:GGAAAGUGCCACAGA+AA AGACCGCC GC  C         G  GC GGCAAGGG
+       1U9S.pdb   1 <[ 0]*GGUGCCAGGUAACGCCUGGGCGGGGUAACCCGACGGAAAGUGCCACAGAGAAGAGACCGCCAGCGGCcggggCCCCGGUGCGGGCAAGGG 90 
+                    ......*************************************************************999877788876667888999******** PP
+
+                            v             v                                                  NC
+                    ,,,,,,<<<<<<_______>>>>>><<<<.<<<<<____>>>>>.>>>->,,)))--))))]]]]~~~~~~~ CS
+  RNaseP_bact_a 155 UGAAAaGGugcgGUAAGAGcgcaCCGcgc.ccccGGuaACgggg.gcgGCuugGcAAaCCCCacc*[150]> 367
+                    UGAAA GG G:GGUAAGAGC:C CCGC:  :CC:GG+AAC:GG:  :GGC+ GGCAAACCCCACC       
+       1U9S.pdb  91 UGAAACGGCGGGGUAAGAGCCCACCGCCUgGCCUGGCAACAGGCcGGGGCACGGCAAACCCCACC*[  0]> 155
+                    *************************777526799******997625677899*************....... PP
+

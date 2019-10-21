@@ -1,0 +1,14 @@
+>> Downstream-peptide  Downstream peptide RNA
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   2.9e-07   34.7   0.0  cm        4       60 ~]           1          50 + ~] 0.95    5' 0.56
+
+                                                                                        NC
+                        ~~~~~::::::<<<<<_____>>>>>----------<<<<<<<<_________.>>->>>>>> CS
+  Downstream-peptide  1 <[3]*CGUUCAuCCccuUuuuggGGaCGCAGUucgAcccaagcCAUGGAACGG.Ggacuuggg 60
+                             CGUUCA:CC  UU+    GG:CGCA  U +A::: :: :A GGAACGG :  :: :::
+            6QN3.pdb  1 <[0]*CGUUCACCC--UUCG---GGGCGCA--UGAAAUGGGAGUAGGGAACGGgAU-UCUCAU 50
+                        .....*********..6665...*******..6***********************.****** PP
+
+
+

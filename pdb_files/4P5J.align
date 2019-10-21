@@ -1,0 +1,12 @@
+>> Tymo_tRNA-like  Tymovirus/Pomovirus/Furovirus tRNA-like 3' UTR element
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   5.2e-18   81.7   0.0  cm        3       84 ~]           1          83 + ~] 0.98    5' 0.60
+
+                                                                                                              NC
+                    ~~~~~::<<<<<____..>>>>>,<<<<<<_______>>>>>>,,,,<<<<_______>>>>,,,,,,,<<<<<______>>>>>:::: CS
+  Tymo_tRNA-like  1 <[2]*AggucGcCAGU..gCgacgcCcguuccCACACaacgGguAaugGGGUGCAACUCCCcCcCCuaUcccGagGGUCAuCgggAcCa 84
+                         AG:UCGCCAGU  GCGA:G:C:GU: C ACAC:AC:G:UAAU:GGGUGCAACUCCC:CCCCU U:CCGAGGGUCAUCGG:ACC 
+        4P5J.pdb  1 <[0]*AGCUCGCCAGUuaGCGAGGUCUGUCUCGACACGACAGAUAAUCGGGUGCAACUCCCGCCCCUCUUCCGAGGGUCAUCGGAACC- 83
+                    .....********************************************************************************666. PP
+

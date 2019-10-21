@@ -1,0 +1,19 @@
+>> VA  VA RNA
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !     2e-08   50.7   0.0  cm       22      135 ..           1         110 + [. 0.94    no 0.68
+
+                                                v                   v                                                NC
+               (-----------((((,,,<<<<<<<<<<<--<<-<<<<________>->>>.>>--->>>>>>>>>>>,,,.<<<<___________>>>>,,,,,,))) CS
+        VA  22 gGAuAauCGcaAGGGUUGaggccGCGGcccACCCCGgUuCGAguCuCggAcC.GGCuGgggCCGCggccAaC.gcgguauUGgCaacCccgcCgUcgaACC 120
+               GGA   UCGCAAGGGU   ::::GCGG:C:ACC  G:UUCGA+ C CGGA:C  GC  :G:CCGC::::A+C ::G:+ UU  C  CC:C:: GUCGAACC
+  6OL3.pdb   1 GGA-CCUCGCAAGGGU-AUCAUGGCGGACGACCG-GGUUCGAACCCCGGAUCcGGC--CGUCCGCCGUGAUCcAUGCGGUUACCGCCCGCGU-GUCGAACC 95 
+               *99.99**********.66***********9555.*****************9999..***********99989999999999999999999.9******* PP
+
+                               NC
+               )-------------) CS
+        VA 121 CaaGCcuGcugacuc 135
+               CA G  UGC +  UC
+  6OL3.pdb  96 CAGGUGUGCGAGGUC 110
+               *********99999* PP
+

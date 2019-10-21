@@ -1,0 +1,12 @@
+>> Histone3  Histone 3' UTR stem-loop
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   1.2e-08   31.4   0.0  cm        1       26 [~           1          26 + [~ 0.98    3' 0.54
+
+                                               NC
+              :::::<<<<<<____>>>>>>:::::~~~~~~ CS
+  Histone3  1 ccAAaGGCUCUUUUaAGAGCCACcaA*[20]> 46
+              CCAAAGGCUCUUUU+AGAGCCACC+A      
+  4QOZ.pdb  1 CCAAAGGCUCUUUUCAGAGCCACCCA*[ 0]> 26
+              ************************88...... PP
+

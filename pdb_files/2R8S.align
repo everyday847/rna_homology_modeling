@@ -1,0 +1,19 @@
+>> Intron_gpI  Group I catalytic intron
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   7.6e-09   39.2   0.0  cm       56      140 .~           2         159 + .~ 0.97    3' 0.48
+
+                 ?       v                                                                                           NC
+                 (,,,<<<<<<---.<<<<<______.......................................................................... CS
+  Intron_gpI  56 aAAUUGCGgGAAA.cCcuagaauaA.......................................................................... 79 
+                  AAUUGCG :AAA :::::+A                                                                              
+    2R8S.pdb   2 GAAUUGCGGGAAAgGGGUCAA----cagccguucaguaccaagucucaggggaaacuuugagauggccuugcaaaggguaugguaauaagcugacggac 96 
+                 ********************8....45679999****************************************************************** PP
+
+                            v                                                          NC
+                 __>>>>>--->>>>>><<---<<<<----<<<<<_______..>>>>>--->>>>--->>,,,~~~~~~ CS
+  Intron_gpI  80 AAuugGgCAAUcCGCAGCCAAauCcuaaGuuucuuAAAcaa..agaaaAAugGgaaAgGUUCA*[10]> 150
+                 A :::::+AA: CGCAGCCAA::CCUAAGU: ::+ A C    :: :A+AUGG::+++GUUCA      
+    2R8S.pdb  97 AUGGUCCUAACACGCAGCCAAGUCCUAAGUCAACAGAUCUUcuGUUGAUAUGGAUGCAGUUCA*[ 0]> 159
+                 9**********************************8887779*********************...... PP
+

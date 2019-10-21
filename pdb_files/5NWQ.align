@@ -1,0 +1,14 @@
+>> ykkC-III  Guanidine-III riboswitch
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   2.4e-08   42.5   0.0  cm       23       64 ..           1          40 + [] 1.00    no 0.73
+
+                           v                         v   NC
+              -----------<<<<<<<_________________>>>>>>> CS
+  ykkC-III 23 CCGGACGAGggGcGcCGUACCCGGucaGcGACAAGACGgCgC 64
+              CCGGACGAGG GCGCCGUACCCGGUCA  GACAAGACGG GC
+  5NWQ.pdb  1 CCGGACGAGGUGCGCCGUACCCGGUCA-GGACAAGACGG-GC 40
+              ***************************.9**********.** PP
+
+
+

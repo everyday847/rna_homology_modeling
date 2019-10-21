@@ -1,0 +1,19 @@
+>> IRES_HepA  Hepatitis A virus internal ribosome entry site (IRES)
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   3.8e-31  102.2   0.0  cm      429      519 ~~           1          91 + ~~ 1.00 5'&3' 0.48
+
+                       ?                                                                                             NC
+                ~~~~~~~(((((((((((--(((((((((,<<<<<<<<_______>>>>>>>>,,,,,,<<<<<_____>>>>>,)))))))))----))))))))))   CS
+  IRES_HepA   1 <[428]*GCaaaCaccacUUGGCCuuaaaUGGGaucCuGUGAGAGgGgauCCCUCCAUUgacaGCUGGACugucCuuuggGGCCUUAUgugguGuuuG   519
+                       GCAAACA:CA:UUGGCCUUAAAUGGGAU:CUGUGAGAGGG:AUCCCUCCAUU:ACAGCUGGACUGU:CUUUGGGGCCUUAU:UG:UGUUUG
+   6MWN.pdb   1 <[  0]*GCAAACAUCAUUUGGCCUUAAAUGGGAUUCUGUGAGAGGGGAUCCCUCCAUUGACAGCUGGACUGUUCUUUGGGGCCUUAUGUGGUGUUUG   91 
+                .......*******************************************************************************************   PP
+
+                       NC
+                ~~~~~~ CS
+  IRES_HepA 520 *[53]> 572
+                      
+   6MWN.pdb   - *[ 0]>   -
+                ...... PP
+

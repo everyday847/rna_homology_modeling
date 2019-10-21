@@ -1,0 +1,12 @@
+>> CRISPR-DR4  CRISPR RNA direct repeat element
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   5.1e-06   30.2   0.0  cm        1       21 [~          23          43 + .~ 1.00    3' 0.76
+
+                                           NC
+                :::::<<<<<_____>>>>>:~~~~~ CS
+  CRISPR-DR4  1 GUUCACUGCCGcACAGGCAGC*[7]> 28
+                GUUCAC:GCCGCACAGGC:GC     
+    5O7H.pdb 23 GUUCACCGCCGCACAGGCGGC*[0]> 43
+                *********************..... PP
+

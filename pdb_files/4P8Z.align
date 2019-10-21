@@ -1,0 +1,26 @@
+>> GIR1  GIR1 branching ribozyme
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   2.3e-24  107.7   0.0  cm        1      199 []           3         186 + .. 0.96    no 0.51
+
+                  vv                                                                                                 NC
+               :[[[[[[[[.,,<<<<<<<.....____...>>>>>>>,((((((,,,,,,,,,,,,,,.,,,,,,,<<<<<<<<<<____>>>>---->>------>>>> CS
+      GIR1   1 CuguuauUu.aaGcacgau.....uuuu...aucgugCaAuGGGgUUcAUaccUUaAUu.uGCCAAAACGGggccucuguugagguAuaccuAUAUUCCGU 91 
+               +U:  :U:: AAG:A::AU     +U+    AU::U:CAA::GGGUU A  +CUUAAUU  G++AAAACGG:G::::+  +::::  +AC:U     CCGU
+  4P8Z.pdb   3 UUGGGUUGGgAAGUAUCAUggcuaAUC-accAUGAUGCAAUCGGGUUGAACACUUAAUUgGGUUAAAACGGUGGGGGACGAUCCCGUAACAU-----CCGU 97 
+               ****9999999********99876333.478****************************999******************************.....**** PP
+
+                                                                                                                     NC
+               <<___________________>>,,,<-<<<<<---------<<<_____>>>------------>>>>>><<<<________>>>>,,,)))))),,,]] CS
+      GIR1  92 aCUAaGgauuuaAUcCGGAAcGuCUAGAGACUaCACGGCagAgCCauUUuGGcgguaUgAAUGGAuAGUCCcuaGUuaAcCAUCuagGCAuCCCaUACAaA 192
+               :CUA               ACG:C A:AGACU:CACGGC   :CC+ UU+GG:G+ +  AAUG A:AGUC::U:: +AA    ::A:GCAUCC::UA+ ::
+  4P8Z.pdb  98 CCUA---------------ACGGCGACAGACUGCACGGCCCUGCCUCUUAGGUGUGUCCAAUGAACAGUCGUUCC-GAAA---GGAAGCAUCCGGUAUCCC 179
+               ***9...............89******************************************************.8888...****************** PP
+
+                 vv    NC
+               ]]]]]]: CS
+      GIR1 193 augguaA 199
+               A:  :AA
+  4P8Z.pdb 180 AAGACAA 186
+               ******* PP
+

@@ -1,0 +1,12 @@
+>> ZMP-ZTP  ZMP/ZTP riboswitch
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   7.7e-06   40.8   0.0  cm        6       86 ~~           1          64 + ~~ 0.97 5'&3' 0.70
+
+                                                                                                           NC
+              ~~~~~(((((((,,,,,,,,,,,,,<<<___>>>,,<<<<_____>>>>.,,,,,))))))))))---<<<<<_________>>>>>~~~~~ CS
+   ZMP-ZTP  1 <[5]*cccgcgcgACUGGCGaaaacggcuuagccguGUGGAucuACCAC.GGGgAgcgcgggggguaacuGCCGauCGCCUGGGCag*[5]> 91
+                   ::::CG:GACUGGCGAA A            GUGG ++ ACCAC GGGGA:CG::::      :UGCCG +CGCCUGGGCA:     
+  4XWF.pdb  1 <[0]*GGGUCGUGACUGGCGAACAG-----------GUGGGAA-ACCACcGGGGAGCGACCC------UUGCCGCCCGCCUGGGCAA*[0]> 64
+              .....*****************966...........******9.*****************9......799***************9..... PP
+

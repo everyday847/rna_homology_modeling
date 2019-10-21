@@ -1,0 +1,12 @@
+>> preQ1-II  preQ1-II (pre queuosine) riboswitch
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   4.1e-05   33.6   0.0  cm       18       92 ..           8          76 + .] 0.96    no 0.45
+
+               v           v         v            v               v              v         NC
+              <<<<<_____>>>>>.,<<<<<<<____________>>>>>>>---------<<<<<______>>>>>:::::::: CS
+  preQ1-II 18 GuuGcaUuaagCaaC.CcuuGgugCUUAgUccCUUUcacCaagCAUAUUAcAagcGgaUauagcCgcuAAAGGAGA 92
+              G ::: U   ::: C C:::G:U CUUA U+CCUUU A:C:::  UAUUAC  ::G: U    :C::+AAAGGAGA
+  5D5L.pdb  8 GAAAGGU---CUUCCaCGACGAUACUUAUUUCCUUUGAUCGUCGUUAUUAC--UGGCUUCG--GCCACAAAGGAGA 76
+              ***9999...99999**********************************99..99998876..9999********* PP
+

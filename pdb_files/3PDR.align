@@ -1,0 +1,21 @@
+>> ykoK  ykoK leader
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !     6e-33  139.6   0.0  cm        5      165 ..           2         159 + .. 0.99    no 0.47
+
+                           v                                                                                         NC
+               [[[[[[[[----[[[[[[--[[[[[[[[,,,,,,(((((<<<<<<----<<<<____>>>>---->>>>----->><<<<--<<<_______>>>-->>>> CS
+      ykoK   5 uaccccGuUAGGugAGGCUccugcgcGgAuAuAgGcugcUGCcccaAAacgUcGAGAgAcgccaAgggGuauAACAGgccuuguCGaauuAAGgcuUggcC 105
+               ::C::CGUUAGG GAGGCUCCUG:::GGA AUA GCUGCUGCCC:AAAA:GUC A AGAC:CCAA:GGGU  AACA::::U :UCGA  UAAGG:  ::::
+  3PDR.pdb   2 GGCUUCGUUAGGUGAGGCUCCUGUAUGGAGAUACGCUGCUGCCCAAAAAUGUCCAAAGACGCCAAUGGGU-CAACAGAAAUCAUCGACAUAAGGUGAUUUU 101
+               **********************************************************************.****************************** PP
+
+                                                              v             NC
+               ,,,,))))),<<<_______>>>,,,,]]]]]]]]-]]-----]]]-]]]----]]]]]] CS
+      ykoK 106 UAAugcagCUggcuuuuauagccUAcGcCgcgcagUGCUAAAgCUcgaaCGAugggggua 165
+               UAAUGCAGCUGG:U  U U :CCUA+GCC:::CAGUGCUAAAGCUC  ACGAU+G::G::
+  3PDR.pdb 102 UAAUGCAGCUGGAUGCU-UGUCCUAUGCCAUACAGUGCUAAAGCUC-UACGAUUGAAGCC 159
+               *************9888.58**************************.************* PP
+
+
+

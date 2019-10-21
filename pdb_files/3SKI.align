@@ -1,0 +1,14 @@
+>> MFR  M. florum riboswitch
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !     2e-18   81.2   0.0  cm        1       63 []           2          65 + .. 1.00    no 0.47
+
+                                                                               NC
+              (((((((,,,<<<<<<_______>>>>>>,,.,,,,,<<<<<<<____>>>>>>>,,))))))) CS
+       MFR  1 aCuUAUACAggGuAGCAUAauGGGCUaCcGA.cCcGCCcuGaGACCaAUCuCagGACUAUAaGu 63
+              :CUUAUACAG:GUAGCAUAAUGGGCUAC:GA CCCGCC: :A:ACC+AU:U: :GACUAUAAG:
+  3SKI.pdb  2 CCUUAUACAGGGUAGCAUAAUGGGCUACUGAcCCCGCCUUCAAACCUAUUUGGAGACUAUAAGG 65
+              **************************************************************** PP
+
+
+

@@ -1,0 +1,12 @@
+>> NiCo  NiCo riboswitch
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   2.3e-13   60.2   0.0  cm        9       98 .]           3          87 + .. 0.93    no 0.56
+
+                          v                       v                                                      NC
+              :((((,,,,,<<<<<<<<___________>>>>>-->>>,,,<<<<<____>>>>>,<<<<<______________>>>>>,,,,)))): CS
+      NiCo  9 AacuGAgCAGGCcaugccuuuauaAuaaaggcauGggGCCGGGCCgcaugagcGGCAGCgGauuuuuuuuuaaauAuCcGCGGGACagua 98
+              AACUGAGCAGGC AUG:C++ A       G:CAUG  GCCGGGC:GC  +AGC:GCA:C:GAU +U+      A+AUC:G:GGGACAGU 
+  4RUM.pdb  3 AACUGAGCAGGCAAUGACCAGAG----CGGUCAUGCAGCCGGGCUGCGAAAGCGGCAACAGAUGAUACA-CGCACAUCUGUGGGACAGUU 87
+              ******************97754....46*********************************9988765.66799*************** PP
+

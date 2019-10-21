@@ -1,0 +1,19 @@
+>> RNaseP_bact_b  Bacterial RNase P class B
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   1.4e-26   94.0   0.0  cm       77      230 ..           1         119 + [. 0.98    no 0.54
+
+                                                                                                                     NC
+                    [[[[[<<<<<<__________>>>>>><<<<<<<____>>>>>>->((,<<<<----<<<<---<<<____>>>-->>>>----->>>>,,,,,<< CS
+  RNaseP_bact_b  77 UcGuGcugggcgAAauAAUAAgcccagGcAggcguuuacgccUgACGGCgggcaAAagggCUAAgucuuuugacAUGcccuaauagcccUgAAAGU 172
+                    :CG:GC:::GCGAA U AUAAGC:::GGCAG C:UU+ :G CUGACGGC:GG:AAAA                       +A+UA:CC:UGAAAGU
+       1NBS.pdb   1 GCGAGCCUAGCGAAGUCAUAAGCUAGGGCAGUCUUUAGAGGCUGACGGCAGGAAAAA-----------------------GAGUAUCCUUGAAAGU 73 
+                    *********************************************************.......................47899*********** PP
+
+                                                                               NC
+                    <<<------------<<<<<<<<____>>>>>>>>--------->>>-->>))]]]]] CS
+  RNaseP_bact_b 173 gCCACAGuGACGaagcuucucugGAAAcagagaagGUGgAACGcGGuAAACCCCaCgA 230
+                    GCCACAGUGACGAAG::UC            GA::GUGGAACGCGGUAAACCCC:CG:
+       1NBS.pdb  74 GCCACAGUGACGAAGUCUC------------GAGAGUGGAACGCGGUAAACCCCUCGC 119
+                    *****************98............89************************* PP
+

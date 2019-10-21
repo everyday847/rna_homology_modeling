@@ -1,0 +1,33 @@
+>> RNaseP_bact_a  Bacterial RNase P class A
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   9.2e-88  269.5  21.1  cm        1      367 []           1         347 + [] 0.96    no 0.68
+
+                                                                                                                     NC
+                    {{{{{{{{{{{{{{{{{{,<<<<<<<<<______>>>>>.>>>>,,,,,,,,,,,,,[[[[--------[[[[[<<<<<_____>>>>><<<<<__ CS
+  RNaseP_bact_a   1 cgagccggccgggcggucGCgcccccccuuaaaaggggg.ggcGAGGAAAGUCCGGgCUcCAuAGggCAggguGccgGgUAACgcCcggcggggGu 95 
+                    :GAG::G::C:GGCGGUCGCG:: :C:C+ A   G:G:  ::CGAGGAAAGUCCGG+CUC    G+GC :GGUGCCGGGUAACGCCCGG::GGGGU
+       3Q1Q.pdb   1 GGAGAGGAGCAGGCGGUCGCGGGGGCGCACACCUGCGCUuCCCGAGGAAAGUCCGGACUCU--GGAGCGGGGUGCCGGGUAACGCCCGGGAGGGGU 94 
+                    *************************************96499******************9..578899*************************** PP
+
+                                                                                                                     NC
+                    __>>>>->((---(((((,,,,,,,.,,,,,<<<<<<<<<<<____>>>>>>>>>-->>,,,,,,,<<<<<<_______>>>>>>.<<<<<<<<<_ CS
+  RNaseP_bact_a  96 gAccccAgGGAaAGugCcACAGAAA.auAgACCgCccgccccuuauggggcggGcAAGGGUGAAAaGGugcgGUAAGAGcgcaCC.GcgcccccGG 189
+                    GACCC: :GGA AG:GCCA AGA+A ++AGACCGCCCG:  : +A+:  :CGGGCAAGGGUG AA GGUG:GGUAAGAGC:CACC GCG C::: G
+       3Q1Q.pdb  95 GACCCU-CGGACAGGGCCAUAGAGAaGAAGACCGCCCGGGGGGAAACUUCCGGGCAAGGGUGGAACGGUGGGGUAAGAGCCCACCaGCGUCGGG-G 188
+                    ******.****************9846778***********************************************************99999.* PP
+
+                                                                      vv     v   v     v   v  vv                     NC
+                    ___>>>>>>>>->,,)))--))))]]]]]]]]],,,<<<<------<<<<<<-----<<<<<_____>>>>>.->>>>>>----->>>>,,,,,,< CS
+  RNaseP_bact_a 190 uaACgggggcgGCuugGcAAaCCCCacccGgAGCAAggccAAAUAGGggcgcauuuacgggcugcucgcccg.agcgccCGGGUaggccGCUuGAG 284
+                    +AA :::G CGGCUUGGCAA:CCCCACC: GAGCAAGGCCAA  AGGGG:      + GGG  GCUC CCC  ++C:CCCGGGU GGCCGCUUGAG
+       3Q1Q.pdb 189 CAA-CCCGGCGGCUUGGCAACCCCCACCUGGAGCAAGGCCAAGCAGGGGG------UUGGGUCGCUCCCCCUaUUCCCCCGGGUUGGCCGCUUGAG 277
+                    ***.99999************************************77777......499999999997777646778999**************** PP
+
+                                                                                                        NC
+                    <<<<<<<____>>>>>>>>,,,,,,,,,,}}}}}}}-------------------------------}-}}}}}}}}}}:::: CS
+  RNaseP_bact_a 285 ccggccgGuAAcggccggCCuAGAugAAUgaccgccaucuauuuaaauuuuaACAGAAcCCGGCUUAcaggccggcucgucau 367
+                    ::G::CGGUAACG::C::CC+AGAU +AUGACCGCC++C            +ACAGAA+CCGGCUUA: G::C::CUC:  + 
+       3Q1Q.pdb 278 GUGUGCGGUAACGCACACCCCAGAUUGAUGACCGCCCAC------------GACAGAAUCCGGCUUAU-GCUCCUCUCCCGUG 347
+                    **************************************9............*****************.************** PP
+

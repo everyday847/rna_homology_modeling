@@ -1,0 +1,19 @@
+>> Lysine  Lysine riboswitch
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   4.7e-23   86.2   1.6  cm        6      178 ..           1         160 + [. 0.92    no 0.66
+
+                               vv                                                   vv                               NC
+               ((((((,,,,<<<<<<<<<-------<<<<<<<<____________________>>>>>>>>------>>>>>>>>>,,,<<<<<<<<<<<<_______>> CS
+    Lysine   6 cgguAGAGGUGCgucccucAugAGUAacuuuucuGAggggaugaaaucCgaUGAagaaaaguGAAAGGgagggacGCCGAagugaguggaccucguuaagg 106
+               :G:::GAGG+GCG:CC  :AUGAGUA:::::UC: A    A G+ A   +  G :GA:::::GAAAGG:  GG:CGCCGAAG::AG::GA::UC U++ ::
+  3D0U.pdb   1 GGACGGAGGCGCGCCCGAGAUGAGUAGGCUGUCCCA--UCAGGGGAGGAAUCGGGGACGGCUGAAAGGCGAGGGCGCCGAAGCGAGCAGAGUUCCUCCCGC 99 
+               ***********************************9..6666666666667777*****************************999999999998998899 PP
+
+                                                                                NC
+               >>>>>>>.>>><<<<<<<<<<<_____.>>>>>>>>>>>,<<<<~~~~~~>>>>,,,,)))))) CS
+    Lysine 107 uccacuc.gcuGGccccguggcCGAAu.gccacggggCUGuCAc*[16]*gUGgAGcGCUaccg 178
+               UC::CU: :CUGG:::: :GG: GAAU :CC: ::::CUGUC:C      G:GGAG GC:::C:
+  3D0U.pdb 100 UCUGCUUgGCUGGGGGUGAGGG-GAAUaCCCUUACCACUGUCGC*[ 4]*GCGGAGAGCCGUCC 160
+               999999846*************.********************9...4..9************* PP
+

@@ -1,0 +1,14 @@
+>> Glycine  Glycine riboswitch
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   4.5e-14   64.1   0.0  cm        9       86 ..           2          85 + .. 0.88    no 0.54
+
+                                                                                                          NC
+              (((((,,,,,,<<<<_________>>>>,<<<<<--<<<---<<___....____.........>>---->>>>>->>>,,,,,,,))))) CS
+   Glycine  9 cuCuGGAGAGacccgguuuaaaaucgggCGCCGAAGGaGcAAgcaua....uCcc.........gcgAAuCuCUCAGGCAaaAgGACaGag 86
+              CUCUGGAGAGA:CCG UU+A    CGG:CGCCGAAGGAGCAA:C+ +                 G:GAA+CUCUCAGGCAAAAGGACAGAG
+  3OXE.pdb  2 CUCUGGAGAGAACCGUUUAAU---CGGUCGCCGAAGGAGCAAGCUCUgcgg----aaacgcagaGUGAAACUCUCAGGCAAAAGGACAGAG 85
+              ***************655555...********************9884444....555566777*************************** PP
+
+
+

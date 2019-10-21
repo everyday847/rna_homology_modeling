@@ -1,0 +1,12 @@
+>> s2m  Coronavirus 3' stem-loop II-like motif (s2m)
+ rank     E-value  score  bias mdl mdl from   mdl to       seq from      seq to       acc trunc   gc
+ ----   --------- ------ ----- --- -------- --------    ----------- -----------      ---- ----- ----
+  (1) !   1.7e-16   65.1   0.0  cm        1       43 []           3          45 + .. 1.00    no 0.58
+
+                                                          NC
+              :<<<<<----<<<-<<<<_____>>-->>-->>>--->>>>>: CS
+       s2m  1 cgguGCCGaGGCCACGCcGAGUAgGAUCGAGGGUACAGCacca 43
+              +::::CCGAGGCCACGC:GAGUA:GAUCGAGGGUACAG::::+
+  1XJR.pdb  3 GUUCACCGAGGCCACGCGGAGUACGAUCGAGGGUACAGUGAAU 45
+              ******************************************* PP
+
